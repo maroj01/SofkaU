@@ -9,6 +9,7 @@
 3- Cuando el jugador es ganador.
 
 Instrucciones de uso
+
 Para iniciar el juego, el jugador debe ingresar su nombre y dar Click en (Registrar participante).
 Muestra una de las preguntas, elegida aleatoriamente de la categoría uno de cinco.
 El jugador selecciona una opción de respuesta que tiene y da Click en (enviar), si pierde se finaliza el
