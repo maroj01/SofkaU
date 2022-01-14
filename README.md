@@ -3,6 +3,7 @@
 - Se usa el IDE Visual Studio 2019.
 - La base de datos es MYSQL, por medio del gestor de bases de datos phpMyAdmin 5.0.2
 - Los datos para realizar la conexión a base de datos, se encuentran en la ruta: \RetoSofka\ConexionBd.cs
+- En el proyecto se encuentra el archivo (challenge.sql) de la base de datos.
 - La persistencia en la base de datos se presenta en tres momentos:
 1- Cuando el jugador pierde.
 2- Cuando el jugador se desea retirar.
